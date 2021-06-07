@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* Regra charset caso haja problemas com acentuação */
+
+body {
+    background-color: rgb(210, 242, 250);
+    color: rgb(3, 11, 56);
+    font-size: 12 pt;
+    font-family: Arial;
+}
+
+h1 {
+    color: rgb(1, 1, 82);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(1, 1, 82);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(1, 1, 82);
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin-left: 2%;
+    text-indent: 1.5em;
+    line-height: 1.5em;
+}
+
+a {
+    color: rgb(0, 5, 31);
+}
+
+iframe {
+    text-align: center;
+    margin-left: 30%;
+}
